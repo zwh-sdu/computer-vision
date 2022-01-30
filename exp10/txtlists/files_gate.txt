@@ -1,0 +1,3 @@
+./images/gate1.jpg
+./images/gate2.jpg
+./images/gate3.jpg

@@ -1,0 +1,5 @@
+./images/dorm1.jpg
+./images/dorm2.jpg
+./images/dorm3.jpg
+./images/dorm4.jpg
+./images/dorm5.jpg
